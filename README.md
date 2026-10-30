@@ -51,4 +51,5 @@ This vulnerability proves that when manufacturers treat the "Local Area Network"
 
 The SN and Account ID have become "Master Keys" due to a critical Authentication Bypass. This is more than a technical bug; it is a total exposure of home security.
 
-## Conclusion: The threat level is [CRITICAL/FATAL]. Until a patch is released, no software-based measures can stop this protocol-based illegal access.
+## Conclusion
+The threat level is [CRITICAL/FATAL]. Until a patch is released, no software-based measures can stop this protocol-based illegal access.
